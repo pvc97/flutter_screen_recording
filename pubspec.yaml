@@ -15,9 +15,7 @@ dependencies:
   flutter_foreground_task: ^6.0.0+1
   flutter_screen_recording_platform_interface: ^1.0.2
   flutter_screen_recording_web:
-    git:
-      url: https://github.com/pvc97/flutter_screen_recording_web.git
-      ref: master
+    path: D:\src\flutter_screen_recording\flutter_screen_recording_web
 
 dev_dependencies:
   flutter_test:
